@@ -1,0 +1,13 @@
+{% import "_includes/forms" as forms %}
+
+{% includeCssResource 'codeblock/css/codeblock.css' %}
+
+{% set config = {
+    id: name,
+    name: name,
+    value: value,
+    class: 'nicetext codeblock',
+    rows: 6
+} %}
+
+{{ forms.textarea(config) }}
