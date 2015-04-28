@@ -1,4 +1,4 @@
-# Code Block plugin template for Craft CMS
+# Code Block plugin for Craft CMS
 
 _A simple field type for code samples_
 
