@@ -9,9 +9,24 @@ class CodeBlockPlugin extends BasePlugin
 		return 'Code Block';
 	}
 
+	public function getDescription()
+	{
+		return 'A simple field type for code samples.';
+	}
+
+	public function getDocumentationUrl()
+	{
+		return 'https://github.com/lindseydiloreto/craft-codeblock';
+	}
+
 	public function getVersion()
 	{
-		return '1.0.0';
+		return '1.1.0';
+	}
+
+	public function getSchemaVersion()
+	{
+		return '1.1.0';
 	}
 
 	public function getDeveloper()
@@ -24,5 +39,5 @@ class CodeBlockPlugin extends BasePlugin
 		return 'https://github.com/lindseydiloreto/craft-codeblock';
 		//return 'http://doublesecretagency.com';
 	}
-	
+
 }
