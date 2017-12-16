@@ -4,6 +4,8 @@ _A simple field type for code samples_
 
 ***
 
+> ### DISCONTINUED
+>
 >**This plugin will not be ported to Craft 3.**
 >
 >However, you can easily replace this field with the [Simple Text](https://github.com/craftcms/simple-text) plugin by Pixel & Tonic.
