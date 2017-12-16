@@ -2,6 +2,16 @@
 
 _A simple field type for code samples_
 
+***
+
+>**This plugin will not be ported to Craft 3.**
+>
+>However, you can easily replace this field with the [Simple Text](https://github.com/craftcms/simple-text) plugin by Pixel & Tonic.
+>
+>_This repo will be deleted once Craft 4 is released._
+
+***
+
 Using this plugin is incredibly easy. When creating a new field, simply select "Code Block" as your field type. Yes, it even works within a Matrix field. :)
 
 **What the field looks like:**
